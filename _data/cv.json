@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "夏文超",
+    "email": "xiawenchao@njupt.edu.cn",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "南京邮电大学副教授",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "南京",
+      "countryCode": "中国",
+      "region": "江苏"
     },
     "profiles": [
       {
@@ -33,29 +33,21 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "南京邮电大学",
+      "area": "博士",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
+   
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "南京邮电大学",
+      "area": "本科",
       "studyType": "",
       "startDate": "",
       "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
